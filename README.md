@@ -63,7 +63,7 @@
 ## 🖼 Screenshots
 
 ![Home Page](C:\Users\User\Pictures\Screenshots)  
-![Create Quiz](C:\Users\User\Pictures\Screenshots\Screenshot (11))  
+![Create Quiz](C:\Users\User\Pictures\Screenshots)  
 ![Leaderboard](./screenshots/leaderboard.png)  
 ![Login / Sign Up](./screenshots/login-signup.png)  
 
