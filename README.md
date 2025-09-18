@@ -1,4 +1,4 @@
-# Peer Quiz Battle 🎮📝
+<img width="1920" height="1080" alt="Screenshot (9)" src="https://github.com/user-attachments/assets/4bc7e40d-ea1f-41e2-a980-f2988f31fd03" /># Peer Quiz Battle 🎮📝
 
 *Peer Quiz Battle* is an interactive web application where students can *create, share, and compete in quizzes* with each other. Unlike traditional quiz apps, this platform focuses on *peer-to-peer learning and competition*, making studying fun and engaging.
 
@@ -62,8 +62,8 @@
 
 ## 🖼 Screenshots
 
-![Home Page](./screenshots/home.png)  
-![Create Quiz](./screenshots/create-quiz.png)  
+![Home Page](C:\Users\User\Pictures\Screenshots)  
+![Create Quiz](C:\Users\User\Pictures\Screenshots\Screenshot (11))  
 ![Leaderboard](./screenshots/leaderboard.png)  
 ![Login / Sign Up](./screenshots/login-signup.png)  
 
